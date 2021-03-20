@@ -9,7 +9,7 @@ function iterationSum(numbers) {
   return sum;
 }
 
-console.log(iterationSum([1, 2, 3]));
+console.log(iterationSum([1, 2, 3])); //6
 
 //Recursion:
 function recursionSum(numbers) {
@@ -20,4 +20,4 @@ function recursionSum(numbers) {
   return numbers[0] + recursionSum(numbers.slice(1));
 }
 
-console.log(recursionSum([1, 2, 3]));
+console.log(recursionSum([1, 2, 3])); //6
