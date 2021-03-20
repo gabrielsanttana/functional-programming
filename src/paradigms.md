@@ -12,4 +12,4 @@ Keeps the state to each object, send and receive messages
 
 ### Functional
 
-Uses pure functions (input and output without side effects) as the basic structural unit with persistent data structures
+Uses pure functions (input and output without side effects) as the basic structural unit, commonly with persistent data structures
